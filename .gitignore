@@ -6,3 +6,4 @@ futoshiki/model/Futoshiki.class
 futoshiki/model/TestFutoshiki.class
 futoshiki/model/Valore.class
 futoshiki/view/FutoshikiFrame.class
+.DS_Store
