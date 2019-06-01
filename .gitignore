@@ -1,0 +1,8 @@
+futoshiki/view/FutoshikiGUI.class
+futoshiki/backtrack/Problema.class
+futoshiki/model/Cella.class
+futoshiki/model/Cella$Notifica.class
+futoshiki/model/Futoshiki.class
+futoshiki/model/TestFutoshiki.class
+futoshiki/model/Valore.class
+futoshiki/view/FutoshikiFrame.class
